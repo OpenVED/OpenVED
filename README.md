@@ -1,50 +1,47 @@
 # OpenVED.org
 
-Welcome to **OpenVED.org** — an open-source organization dedicated to empowering developers, designers, and innovators through **collaborative coding**, **community learning**, and **inclusive contributions**.
+Welcome to **OpenVED.org** — a new open source organization focused on learning, coding, and building software together.
 
-## Our Mission
+## About Us
 
-At OpenVED.org, our goal is to **build better technology together**. We believe that open source thrives when knowledge is shared freely and people come together across languages, tech stacks, and backgrounds to:
+We are just getting started! OpenVED.org is a community of tech enthusiasts who want to:
 
-- **Contribute to open source projects**
-- **Teach and learn coding collaboratively**
-- **Support developers at all skill levels**
-- **Build meaningful, real-world software**
+- Learn how to code
+- Collaborate on simple and useful open source projects
+- Share knowledge with each other
 
-## What We Do
+## What We Plan to Do
 
-- **Open Source Projects**: We maintain and contribute to community-first projects in web development, AI, DevOps, mobile apps, and more.
-- **Workshops & Tutorials**: We host regular events and write guides to help everyone understand modern development tools and practices.
-- **Mentorship & Collaboration**: New to open source? We’ll help you make your first PR and grow your skills.
+- Start small coding projects anyone can join
+- Help beginners make their first contributions
+- Create tutorials and learning resources
+- Grow a friendly and helpful tech community
 
-## Get Involved
+## How to Join
 
-Join the movement and become a part of our growing developer community:
+You can join us by:
 
-- **Website**: [https://openved.org](https://openved.org)
-- **GitHub**: [https://github.com/OpenVED](https://github.com/OpenVED)
-- **Discord**: [Join our server](#) *(link coming soon)*
-- **Twitter**: [@OpenVEDorg](https://twitter.com/OpenVEDorg)
+- Visiting our website: [https://openved.org](https://openved.org) *(coming soon)*
+- Following us on GitHub: [https://github.com/OpenVED](https://github.com/OpenVED)
 
-## Contributing
+We’ll also be launching a Discord server and other platforms soon!
 
-We welcome contributions of all kinds — whether it's code, documentation, design, testing, or mentorship.
+## How to Contribute
 
-1. Fork this repository
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Make your changes
-4. Commit your changes: `git commit -m "Add your message here"`
-5. Push to your fork: `git push origin feature/your-feature-name`
-6. Open a Pull Request
+Anyone can contribute, even if you’re just starting out. Here's how:
 
-Make sure to check out our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing Guidelines](CONTRIBUTING.md).
+1. Fork any of our repositories
+2. Make your changes
+3. Submit a Pull Request
+
+We’ll review and help you learn along the way!
 
 ## License
 
-All projects and contributions under OpenVED.org are released under the [MIT License](LICENSE).
+All our work is shared under the [MIT License](LICENSE).
 
 ---
 
-Let’s make tech open, together.
+Thanks for checking us out!
 
 **– The OpenVED Team**
